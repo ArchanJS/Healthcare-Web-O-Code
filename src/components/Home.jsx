@@ -8,25 +8,17 @@ export default class Home extends Component {
              
               <div class="carousel-item active">
                 <div class="carousel-container">
-                  <h2 class="animate__animated animate__fadeInDown">Lorem, ipsum. <span>Lorem</span></h2>
-                  <p class="animate__animated animate__fadeInUp">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua..</p>
-                  <a href="#Heading" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
+                  <h2 class="animate__animated animate__fadeInDown">Welcome to <span>Medalpha</span></h2>
+                  <p class="animate__animated animate__fadeInUp">To provide access to high quality, respectful and patient-centered primary and preventive healthcare services for everyone.</p>
+                  <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
                 </div>
               </div>
              
               <div class="carousel-item">
                 <div class="carousel-container">
-                  <h2 class="animate__animated animate__fadeInDown">Lorem Ipsum Dolor</h2>
-                  <p class="animate__animated animate__fadeInUp">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua..</p>
-                  <a href="#Heading" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
-                </div>
-              </div>
-            
-              <div class="carousel-item">
-                <div class="carousel-container">
-                  <h2 class="animate__animated animate__fadeInDown">Lorem ipsum dolor sit.</h2>
-                  <p class="animate__animated animate__fadeInUp">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua..</p>
-                  <a href="#Heading" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
+                  <h2 class="animate__animated animate__fadeInDown">Great Medical Team</h2>
+                  <p class="animate__animated animate__fadeInUp">We are committed to the health of you and your family. We provide service for 24X7.</p>
+                  <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
                 </div>
               </div>
               <a class="carousel-control-prev" href="#heroCarousel" role="button" data-bs-slide="prev">

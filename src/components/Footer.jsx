@@ -3,19 +3,17 @@ import React, { Component } from 'react'
 export default class Footer extends Component {
     render() {
         return (
-            <div>
-                <footer id="footer">
+            <footer id="footer">
             <div class="container">
               <div class="copyright">
-                &copy; Copyright <strong><span>Lorem</span></strong>. All Rights Reserved
+                &copy; Copyright <strong><span>Medalpha</span></strong>. All Rights Reserved
               </div>
               <div class="credits">
               
-                by <a href="https://www.google.com">Lorem</a>
+                by <a href="https://github.com/jaydip1235/Healthcare-Web-O-Code">Alpha</a>
               </div>
             </div>
           </footer>
-            </div>
         )
     }
 }

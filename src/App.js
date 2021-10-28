@@ -14,16 +14,18 @@ export default class App extends Component {
   render() {
     return (
       <div>
-        <Navbar/>
-        <Home/>
-        <About/>
-        <Services/>
-        <Gallery/>
-        <Doctors/>
-        <Pricing/>
-        <Faq/>
-        <Contact/>
-        <Footer/>
+        <Navbar />
+        <Home />
+        <About />
+        <Services />
+        <Gallery />
+        <Doctors />
+        <Pricing />
+        <Faq />
+        <Contact />
+        <Footer />
+        <div id="preloader"></div>
+        <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
       </div>
     )
   }

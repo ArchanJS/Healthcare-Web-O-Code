@@ -7,57 +7,65 @@ export default class Doctors extends Component {
               <div class="container" data-aos="fade-up">
                 <div class="section-title">
                   <h2>Doctors</h2>
-                  <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                  <p>Our team of Doctors are expertise in their own domain and have more than 10 years of experience in India as well as in European countries and USA.</p>
                 </div>
                 <div class="row">
                   <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
                     <div class="member d-flex align-items-start">
+                      <div class="pic"><img src="https://i.postimg.cc/HLVBc9ZN/doc1.jpg" class="img-fluid" alt="" /></div>
                       <div class="member-info">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua..</p>
+                        <h4>Dr. Pritam Pandey</h4>
+                        <span>Pediatrician</span>
+                        <p>Dr. Pritam Pandey, a leading consulting Pediatrician in India, has been working in the field of child care since 2008.</p>
                         <div class="social">
-                          <a href=""><i class="ri-twitter-fill"></i></a>
-                          <a href=""><i class="ri-facebook-fill"></i></a>
-                          <a href=""><i class="ri-instagram-fill"></i></a>
-                          <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
+                          <a href="https://www.twitter.com" target="_blank"><i class="ri-twitter-fill"></i></a>
+                          <a href="https://www.facebook.com" target="_blank"><i class="ri-facebook-fill"></i></a>
+                          <a href="https://www.instagram.com" target="_blank"><i class="ri-instagram-fill"></i></a>
                         </div>
                       </div>
                     </div>
                   </div>
                   <div class="col-lg-6 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="200">
                     <div class="member d-flex align-items-start">
+                      <div class="pic"><img src="https://i.postimg.cc/63Zcz5NL/doc2.jpg" class="img-fluid" alt="" /></div>
                       <div class="member-info">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua..</p>
+                        <h4>Dr. Shreya Singh</h4>
+                        <span>Opthalmologist</span>
+                        <p>Dr. Shreya Singh is one of the most experienced and best ophthalmologists of India with an experience of more than 30 years</p>
                         <div class="social">
-                          <a href=""><i class="ri-twitter-fill"></i></a>
-                          <a href=""><i class="ri-facebook-fill"></i></a>
-                          <a href=""><i class="ri-instagram-fill"></i></a>
-                          <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
+                        <a href="https://www.twitter.com" target="_blank"><i class="ri-twitter-fill"></i></a>
+                          <a href="https://www.facebook.com" target="_blank"><i class="ri-facebook-fill"></i></a>
+                          <a href="https://www.instagram.com" target="_blank"><i class="ri-instagram-fill"></i></a>
                         </div>
                       </div>
                     </div>
                   </div>
                   <div class="col-lg-6 mt-4" data-aos="fade-up" data-aos-delay="300">
                     <div class="member d-flex align-items-start">
+                      <div class="pic"><img src="https://i.postimg.cc/3JY1CTfm/doc3.jpg" class="img-fluid" alt="" /></div>
                       <div class="member-info">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua..</p>
+                        <h4>Dr. Mainak Maitra</h4>
+                        <span>Surgeon</span>
+                        <p>Dr. Mainak Maitra has a successful practice of over 22+ years & has been associated with some of the best hospitals in India in Neurosurgery.</p>
                         <div class="social">
-                          <a href=""><i class="ri-twitter-fill"></i></a>
-                          <a href=""><i class="ri-facebook-fill"></i></a>
-                          <a href=""><i class="ri-instagram-fill"></i></a>
-                          <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
+                        <a href="https://www.twitter.com" target="_blank"><i class="ri-twitter-fill"></i></a>
+                          <a href="https://www.facebook.com" target="_blank"><i class="ri-facebook-fill"></i></a>
+                          <a href="https://www.instagram.com" target="_blank"><i class="ri-instagram-fill"></i></a>
                         </div>
                       </div>
                     </div>
                   </div>
                   <div class="col-lg-6 mt-4" data-aos="fade-up" data-aos-delay="400">
                     <div class="member d-flex align-items-start">
+                      <div class="pic"><img src="https://i.postimg.cc/GpWJBwsB/doc4.jpg" class="img-fluid" alt=""/></div>
                       <div class="member-info">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua..</p>
+                        <h4>Dr. Arpita Agarwal</h4>
+                        <span>Cardiologist</span>
+                        <p>Dr. Arpita Agarwal is one of the most respected cardiologists in India and considered among the top 10 cardiologists in India.</p>
                         <div class="social">
-                          <a href=""><i class="ri-twitter-fill"></i></a>
-                          <a href=""><i class="ri-facebook-fill"></i></a>
-                          <a href=""><i class="ri-instagram-fill"></i></a>
-                          <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
+                        <a href="https://www.twitter.com" target="_blank"><i class="ri-twitter-fill"></i></a>
+                          <a href="https://www.facebook.com" target="_blank"><i class="ri-facebook-fill"></i></a>
+                          <a href="https://www.instagram.com" target="_blank"><i class="ri-instagram-fill"></i></a>
                         </div>
                       </div>
                     </div>

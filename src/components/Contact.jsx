@@ -14,22 +14,22 @@ export default class Contact extends Component {
                       <div class="address">
                         <i class="bi bi-geo-alt"></i>
                         <h4>Location:</h4>
-                        <p>lasfkall India</p>
+                        <p>JBS Haldane Ave, Topsia, Kolkata-700046</p>
                       </div>
                       <div class="email">
                         <i class="bi bi-envelope"></i>
                         <h4>Email:</h4>
-                        <p><a href="#" class="__cf_email__" >random@gmail.com</a></p>
+                        <p>medalpha@gmail.com</p>
                       </div>
                       <div class="phone">
                         <i class="bi bi-phone"></i>
                         <h4>Call:</h4>
-                        <p>+0 000000 000000 000</p>
+                        <p>+91 987654 3210</p>
                       </div>
                     </div>
                   </div>
                   <div class="col-lg-6 mt-5 mt-lg-0" data-aos="fade-left" data-aos-delay="100">
-                    <form action="#" method="#" role="form" class="php-email-form">
+                    <form action="https://formspree.io/f/mvodnynz" method="POST" role="form"  class="php-email-form" id="my-form">
                       <div class="row">
                         <div class="col-md-6 form-group">
                           <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required />
@@ -45,8 +45,7 @@ export default class Contact extends Component {
                         <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
                       </div>
                       <div class="my-3">
-                        <div class="loading">Loading</div>
-                        <div class="error-message"></div>
+                        <p id="my-form-status"></p>
                       </div>
                       <div class="text-center"><button type="submit">Send Message</button></div>
                     </form>
