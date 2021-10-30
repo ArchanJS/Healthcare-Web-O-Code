@@ -30,5 +30,5 @@
     2. Move into the directory by typing cd Healthcare-Web-O-Code
     3. After that, type npm install
     4. After installing the node modules type npm start
-    5. React app start running on localhost:3000 or any other port
+    5. React app start running either on localhost:3000 or on any other port
     if port 3000 is busy
